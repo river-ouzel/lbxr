@@ -20,19 +20,24 @@
 
 title: Leighton Buzzard Extinction Rebellion
 subtitle: Interim website
-email: 
+email: lbxr-tech@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the interim site for the Leighton Buzzard Extinction Rebellion group.
   It is mostly a placeholder until we have more content
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lbxr.earth" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: notyet
-github_username: notyet
+twitter_username: lbxr5
+github_username: river-ouzel
 minimal_mistakes_skin: dirt
 search: true
 locale: en-GB
 
 repository: river-ouzel/lbxr
+
+# to add
+# teaser: path to teaser
+# logo: path to logo
+
 
 # Build settings
 markdown: kramdown
@@ -74,29 +79,24 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+logo: "/assets/images/logo_512x512.png"
+header:
+  teaser: /assets/images/rushmere_500x300.png
+
 author:
   name   : "River Ouzel"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : 
   bio    : "I'm the LBXR tech person."
   links:
     - label: "LBXR website"
       icon: "fas fa-fw fa-link"
-      url: "https://lbxr.earch"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://lbxr.earth"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/" 
+    - label: "LBXR website"
+      icon: "fas fa-fw fa-link"
+      url: "https://lbxr.earth"
 
 defaults:
   # _posts
@@ -105,7 +105,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -116,7 +116,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid
