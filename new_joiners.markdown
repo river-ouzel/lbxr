@@ -55,7 +55,7 @@ This is the easiest way to log in to the systems, though you can just bookmark t
 
 ## How do I use Mattermost
 
-You can log in on the hub page above, or go to <https://organise.earth> and log in, or there are desktop and mobile apps as well at https://mattermost.com/download/ 
+You can log in on the hub page above, or go to <https://organise.earth> and log in, or there are desktop and mobile apps as well at <https://mattermost.com/download/> 
 
 When you log in you should see a screen similar to this:
 
