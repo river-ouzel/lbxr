@@ -4,9 +4,9 @@ layout: home
 
 ## New Joiners Information
 
-Hi folks!  We are going to set up your group membership - please note that this includes accepting the Extinction Rebellion [Terms of Service](https://cloud.extinctionrebellion.org.uk/index.php/s/c8bWip6iQnoLyYE), [Privacy Policy](https://cloud.extinctionrebellion.org.uk/index.php/s/9bBRewnq5wttNdX) and [Culture and Expectations](https://cloud.extinctionrebellion.org.uk/index.php/s/MfNRxE7N2oHWQZG).  Please read those documents before joining!
+Hi folks!  We are happy to set up your group membership - please note that this includes accepting the Extinction Rebellion [Terms of Service](https://cloud.extinctionrebellion.org.uk/index.php/s/c8bWip6iQnoLyYE), [Privacy Policy](https://cloud.extinctionrebellion.org.uk/index.php/s/9bBRewnq5wttNdX) and [Culture and Expectations](https://cloud.extinctionrebellion.org.uk/index.php/s/MfNRxE7N2oHWQZG).
 
-If you are happy with these and still wish to join, please confirm this in email to <lbxr-tech@protonmail.com>.
+If you are happy with these and still wish to join, please confirm this in email to <lbxr-tech@protonmail.com>, along with the name and email address you'd like to use.
 
 ## How we communicate
 
