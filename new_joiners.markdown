@@ -2,11 +2,11 @@
 layout: home
 ---
 
-## New Joiners Information
-
 Hi folks!  We are happy to set up your group membership - please note that this includes accepting the Extinction Rebellion [Terms of Service](https://cloud.extinctionrebellion.org.uk/index.php/s/c8bWip6iQnoLyYE), [Privacy Policy](https://cloud.extinctionrebellion.org.uk/index.php/s/9bBRewnq5wttNdX) and [Culture and Expectations](https://cloud.extinctionrebellion.org.uk/index.php/s/MfNRxE7N2oHWQZG).
 
-If you are happy with these and still wish to join, please confirm this in email to <lbxr-tech@protonmail.com>, along with the name and email address you'd like to use.
+If you are happy with these and still wish to join, please [Fill out this form](https://cloud.extinctionrebellion.org.uk/index.php/apps/forms/yXZxt3BwwHjYAfNt) and drop us an email at <lbxr-tech@protonmail.com>, and someone will add you to the email list and XR Hub tools (see below).
+
+Note this is a manual process - which is why we ask for an email to <lbxr-tech@protonmail.com> so we know to kick things off!  (The form doesn't send any notifications at this stage)
 
 ## How we communicate
 
@@ -14,6 +14,8 @@ At the moment we have two means of communication:
 
 - A mailing list - this currently uses Google Groups to share announcements and emails between group members.  Note it does not keep your email address confidential from other list members; if you post anything to the group it will show your email address in the "from:" address.  If you want to join the list but stay anonymous, you could set up a new email address at <protonmail.com> or any other email service.
 - [Mattermost](https://mattermost.com/) chat - this is a Chat tool similar to Slack, Google Hangouts Chat or Microsoft Teams. This system requires you to open the [Mattermost](https://mattermost.com/) web application or mobile applications, it is much more conducive to private casual conversations than email.
+
+XR's Mattermost instance is part of the XR UK Hub, which also includes a forum (which we aren't using much yet) and lots of other useful tools.
 
 ## Getting started
 
