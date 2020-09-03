@@ -39,8 +39,9 @@ When you follow the link in the email, you should see a form like this hosted on
 
 There is inline help on this page to assist you further.  Once you click "confirm" you will receive two more emails:
 
-1. "You've joined organisation.earth" - this is from Mattermost to confirm your email address, once you click "Verify Email" you will be able to log in to Mattermost
-2. "Your UK Cloud account was created" - this is access information for UK cloud - more on that in a bit.
+1. "You've joined organisation.earth" from "XR Global \<no-reply@organise.earth\>" - this is to confirm your email address, once you click "Verify Email" you will be able to log in to Mattermost
+    - If you don't see this email, check your spam folders! You need to click this verification link to get Mattermost to work.
+3. "Your UK Cloud account was created" from "XR UK Cloud \<cloud@extinctionrebellion.org.uk\>" - this is access information for UK cloud - more on that in a bit.
 
 You should also be redirected to a "Home" page at <https://auth.extinctionrebellion.org.uk/> which has icons for each of the other systems:
 
