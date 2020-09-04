@@ -31,19 +31,27 @@ Once you have confirmed you are happy with the agreements above, we will add you
 
 There will also be a number of links to a further introductory information.  (This page is an attempt to just give you enough to get started - the full docs can be overwhelming!)
 
-## Signing up
+## Signing up to the Hub and Mattermost
 
-When you follow the link in the email, you should see a form like this hosted on auth.extinctionrebellion.org.uk :
+When you follow the link in the email, you should see a form like this hosted on <https://auth.extinctionrebellion.org.uk> :
 
 ![XR hub invite image](/assets/images/hub_invite.png)
 
-There is inline help on this page to assist you further.  Once you click "confirm" you will receive two more emails:
+There is inline help on this page to assist you further.  Once you click "confirm" there are multiple stages (sadly) to follow:
 
-1. "You've joined organisation.earth" from "XR Global \<no-reply@organise.earth\>" - this is to confirm your email address, once you click "Verify Email" you will be able to log in to Mattermost
-    - If you don't see this email, check your spam folders! You need to click this verification link to get Mattermost to work.
-3. "Your UK Cloud account was created" from "XR UK Cloud \<cloud@extinctionrebellion.org.uk\>" - this is access information for UK cloud - more on that in a bit.
+1. You should be redirected to the Hub's homepage at <https://auth.extinctionrebellion.org.uk>
+2. Click the "Mattermost" icon
+3. Enter your username and password that you just set on the Hub form
+4. You'll be asked to verify your email
+5. You should have an email titled "You've joined organisation.earth" from "XR Global \<no-reply@organise.earth\>" - it might be in Spam/Junk mail
+6. Click "Verify" in the email and you'll be taken back to the log-in page on Mattermost
+7. Enter your email and password (again) and you can use Mattermost!
 
-You should also be redirected to a "Home" page at <https://auth.extinctionrebellion.org.uk/> which has icons for each of the other systems:
+You also should have an email titled "Your UK Cloud account was created" from "XR UK Cloud \<cloud@extinctionrebellion.org.uk\>".
+
+## XR Hub Home
+
+At any stage you can go to the Hub home page at <https://auth.extinctionrebellion.org.uk/> and click the icons to access the various Hub sites:
 
 ![XR hub home](/assets/images/hub_home.png)
 
@@ -60,7 +68,7 @@ This is the easiest way to log in to the systems, though you can just bookmark t
 
 You can log in on the hub page above, or go to <https://organise.earth> and log in, or there are desktop and mobile apps as well at <https://mattermost.com/download/> 
 
-When you log in you should see a screen similar to this:
+When you have logged in you should see a screen similar to this:
 
 ![Mattermost screenshot](/assets/images/mattermost.png)
 
